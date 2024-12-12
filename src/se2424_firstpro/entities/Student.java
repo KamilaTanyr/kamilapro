@@ -11,6 +11,7 @@ public class Student {
     
     private int barcode;
     private int gpa;
+    public int age;
     
     
     public int getBarcode(){
